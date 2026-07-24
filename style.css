@@ -4,4 +4,8 @@ body{
 }
 h1{
     color: red;
+    font-size: 20px;
+    text-align: center;
+    font-weight:990;
+    font-family: Georgia;
 }
