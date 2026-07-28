@@ -1,11 +1,48 @@
 body{
-    background-color: black;
-    color: white;
+     background-color: rgb(7, 7, 7);
+    color: rgba(0, 255, 13, 0.788); 
+background: radial-gradient(circle, rgb(89, 150, 221), black);
+/* Linear = Line → ek seedhi direction me color change.
+Radial = Radius → center se charon taraf color failta hai. */
 }
 h1{
     color: red;
     font-size: 20px;
     text-align: center;
-    font-weight:990;
+    font-weight:700;
     font-family: Georgia;
+}
+   .car-img {
+    width: 300px;
+    display: block;
+    margin:auto;
+}
+.thanks{
+    color:aqua;
+    font-size: 15px;
+    text-align: center;
+}
+
+   .random-img {
+    width: 300px;
+    display: block;
+    margin:auto;
+}
+.my-button {
+     width: 300px;
+    display: block;
+    margin: auto;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.button-img {
+    width: 300px;
+}
+.movie{
+    text-align: center;
+}
+.yt{
+    text-align: center;
 }
