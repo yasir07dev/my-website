@@ -29,7 +29,7 @@ h1{
     margin:auto;
 }
 .my-button {
-     width: 300px;
+     
     display: block;
     margin: auto;
     padding: 0;
@@ -37,12 +37,22 @@ h1{
     background: none;
 }
 
-.button-img {
-    width: 300px;
-}
+ .button-img {
+    width: 300px; 
+ } 
 .movie{
     text-align: center;
 }
 .yt{
     text-align: center;
+}
+.dont{
+    margin: auto;
+    display: block;
+    width: 300px;
+    padding: 12px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 100px;
+    color:rgb(0, 0, 0);
 }
